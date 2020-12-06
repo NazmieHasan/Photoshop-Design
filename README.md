@@ -1,2 +1,2 @@
 # Photoshop-Design
-WordPress project: http://wordpresshotel.ezyro.com/en/
+WordPress Project: http://wordpresshotel.ezyro.com/en/
